@@ -1,6 +1,27 @@
-Este projeto foi desenvolvido durante a Imersão de Análise de Dados com Python, oferecida gratuitamente pela Alura.
 
-A aplicação transforma dados de uma tabela em dashboards interativos, permitindo a exploração dos dados por meio de filtros dinâmicos e diferentes formas de visualização, facilitando a análise e a tomada de decisões.
+---
 
-🔗 Acesse a aplicação:
-https://dados-py-dashboards.streamlit.app/
+# 📊 5️⃣ PROJETO DE DADOS
+
+```md
+# 📊 Análise de Dados em Python
+
+## 📌 Sobre
+Projeto de análise de dados com foco em manipulação e interpretação de informações.
+
+## 🚀 Tecnologias
+- Python
+- Pandas
+- Matplotlib
+
+## 🎯 Funcionalidades
+- Limpeza de dados
+- Análise exploratória
+- Visualização
+
+## 💡 Aprendizados
+- Manipulação de dados  
+- Análise exploratória  
+
+```
+<img width="1365" height="625" alt="analiseDeDados-Python" src="https://github.com/user-attachments/assets/e11a56bc-0848-4422-812f-fc55e983bfd4" />
